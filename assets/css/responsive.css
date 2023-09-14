@@ -1,0 +1,22 @@
+
+@media only screen and (max-width: 1200px){
+    #navbarNavAltMarkup{
+        margin-left: 65%;
+    }
+    .first-nav .phone{
+        margin-right: 30%;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    #navbarNavAltMarkup{
+        margin-left: 50%;
+    }
+    .first-nav .location, .phone{
+        display: none;
+    }
+    
+}
+@media only screen and (max-width: 940px){
+ 
+}
